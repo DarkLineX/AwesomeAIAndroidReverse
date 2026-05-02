@@ -32,6 +32,20 @@
 
 ### 文章教程
 
+
+#### 实战笔记
+
 - [某大厂加密的ai全流程分析和逆向](https://www.52pojie.cn/thread-2099021-1-1.html)
 
-- [近5000 Star！跟AI说句话就能逆向Android应用？](近5000 Star！跟AI说句话就能逆向Android应用？)
+- [近5000 Star！跟AI说句话就能逆向Android应用？](https://www.h3blog.com/article/815/)
+
+
+- [用ChatGPT辅助编写smali代码逆向修改DEX文件](https://blog.csdn.net/mongodb5scout/article/details/154944018)
+
+#### 技术理论
+
+- [Benchmarking Android APK Deobfuscation Using LLMs](https://fuzzinglabs.com/llm-assisted-android-deobfuscation-benchmark/)
+
+- [Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation](https://arxiv.org/abs/2509.07933)
+
+- [AI驱动漏洞挖掘！利用智能体发现57个安卓APP未知漏洞](https://www.secrss.com/articles/82848)
