@@ -29,6 +29,7 @@
 
 - [Deobfuscate-android-app](https://github.com/In3tinct/Androidmeda): 利用本地 LLM (如 LLaMA, DeepSeek) 对混淆的 Android 代码进行反混淆和漏洞检测 。
 
+- [https://github.com/lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller) 面向 ARM64 执行 trace 的算法还原 harness。给定一段 GB 级 trace 日志和一个目标（密文、字段、调用链……），驱动 LLM 通过受约束的工具调用自主搜索证据、追踪数据流、还原算法，最终交付可执行 Python 代码或结构化分析报告。
 
 ### 文章教程
 
