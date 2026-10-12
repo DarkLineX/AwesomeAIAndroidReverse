@@ -25,6 +25,7 @@
 - [apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - 基于 Apktool 的 MCP Server，支持解包、Manifest/resource/smali 读取与修改、重打包等 APK 修改流程。
 - [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - Ghidra MCP Server，把反编译、函数、符号与程序结构上下文提供给 LLM。
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - IDA Pro MCP Server，支持 headless / GUI 流程，面向 IDA 内的变量重命名、类型调整、注释、报告生成等 vibe reversing 场景。
+- [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - 本地 CLI/MCP，供 AI 检查 APK 声明、反编译方法与引用，并返回带来源的证据；Android 代码分析需自备 headless JADX 和完整 JDK，附带 [reverse-engineer-anything Skill](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)。
 - [IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) - 针对 IDA Pro 的轻量 AI 交互方案，目标是降低传统 MCP 交互的复杂度与延迟。
 - [frida-mcp](https://github.com/zhizhuodemao/frida-mcp) - Frida 动态分析 MCP Server，支持应用启动/附加、前台应用识别、应用列表、脚本注入和自定义 frida-server 配置。
 - [ZIN-MCP-Client](https://github.com/zinja-coder/zin-mcp-client) - 面向本地 LLM / Ollama 的命令行 MCP Client，可连接 JADX、Apktool 等逆向 MCP Server。
